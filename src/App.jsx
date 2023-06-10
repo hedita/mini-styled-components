@@ -11,7 +11,7 @@ const App = () => {
       <Button>Update results</Button>
       <Input placeholder="Search by keywords" />
     </ThemeProvider>
-  )
+  );
 };
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
